@@ -1,0 +1,7 @@
+{ // Root dosyası
+    //Cypress modülünü ekledik ve test dosyasınıda 
+    "include": [
+        "./node_modules/cypress",
+        "cypress/**/*.js"
+    ]
+}
